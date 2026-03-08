@@ -2,7 +2,7 @@
 
 Frontend Best Practices (React / Next.js)
 
-1. Favor simplicity and readability over clever abstractions.
+1. Favor simplicity and readability over clever abstractions - test
 2. Organize by feature, not file type (/events, /users).
 3. Co-locate components, styles, and tests together.
 4. Keep components small, focused, and pure.
